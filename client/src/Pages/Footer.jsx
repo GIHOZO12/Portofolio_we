@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='flex items-center justify-center mt-10'>
             <h1 className='text-white'>
                 designed and developed by
-                <span className='text-tertiary'>GIHOZO Ismail</span>
+               &copy; <p className='text-tertiary'>GIHOZO Ismail</p>
             </h1>
         </div>
 
